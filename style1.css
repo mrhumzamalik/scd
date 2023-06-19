@@ -1,0 +1,41 @@
+body
+{
+    background-color: black;
+}
+
+div#main2
+{
+    border-radius: 55px;
+    background-color: white;
+    border: 1px solid black;
+    height: 189px;
+    width: 400px;
+    padding: 10px;
+    margin-top: 13%
+    
+}
+a#btn1
+{
+    text-decoration: none;
+    color: black;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 4px;
+    background-color: #4CAF50;
+}
+a#btn1:hover
+{
+    background-color: #45a049;
+}
+div#btn
+{
+    margin-left: 135px;
+}
+input#tf1
+{
+    border-radius: 12px;
+    padding: 4px;
+}
+
+
+
